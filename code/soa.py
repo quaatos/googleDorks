@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#Message from quaatos -> I didn't wrote this copyright claim :)
 
 # DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
 #
